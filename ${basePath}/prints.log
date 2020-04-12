@@ -1,0 +1,4 @@
+21:12:37.275 [main] ERROR alpha.Demo - Error log
+21:12:37.278 [main] FATAL alpha.Demo - Fatal log
+21:24:08.082 [main] ERROR alpha.Demo - Error log
+21:24:08.085 [main] FATAL alpha.Demo - Fatal log
